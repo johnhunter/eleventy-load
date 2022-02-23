@@ -1,5 +1,10 @@
 # eleventy-load ⚡
 
+
+**This fork is archived. Please use [gregives/eleventy-load](https://github.com/gregives/eleventy-load)**
+
+---
+
 ![Tests](https://github.com/gregives/eleventy-load/actions/workflows/test.yml/badge.svg)
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
